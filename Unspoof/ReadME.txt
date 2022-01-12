@@ -1,0 +1,1 @@
+UnSpoof deletes like 60% of the startup items the spoofer creates
