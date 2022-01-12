@@ -1,0 +1,10 @@
+1. Format your PC + reinstall windows
+2. Download the sp00fer and sp00f EAC
+3. Restart your PC
+4. Sp00f again
+5. Make a new steam account
+6. Reset your network adapters with apple cleaner
+7. Change your IP
+8. Download rust
+9. Press your windows key + r and type `system32` and delete nvml.dll (ONLY THE ONE IN SYSTEM32) - only if you have NVIDIA
+10. Open the game and enjoy playing

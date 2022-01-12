@@ -1,0 +1,11 @@
+*MAKE SURE ALL EAC/BE PROCCESSES ARE CLOSED BEFORE SP00FING*
+1. Format your PC + Reinstall windows
+2. Sp00f BE
+3. Restart your PC
+4. Sp00f again
+5. Open control panel and disable your network adapters
+7. Enable them again and close control panel
+8. Change your IP (internet protocol)
+9. Make a new account
+10. Verify Fortnite
+11. Open fortnite and force BE

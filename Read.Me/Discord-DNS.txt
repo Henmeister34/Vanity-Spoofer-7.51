@@ -1,0 +1,8 @@
+Note: If you are asked for an administrative login, you will need to contact your system administrator.
+Type "ipconfig /flushdns" and press Enter.
+Type "ipconfig /registerdns" and press Enter.
+Type "ipconfig /release" and press Enter.
+Type "ipconfig /renew" and press Enter.
+Type "netsh winsock reset" and press Enter.
+Restart the computer.
+﻿

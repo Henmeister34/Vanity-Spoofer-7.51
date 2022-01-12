@@ -1,0 +1,10 @@
+1. Download the latest version of JAVA - https://java.oracle.com
+2. Download google chrome (the dumper uses this to fetch calls to FiveM)
+3. Join the FiveM server you want to dump
+4. Open the sp00fer and go into Cheetos > FiveM > Dumper
+5. Enter the server IP
+6. Enter the server PORT
+7. Wait 30 seconds
+8. Check the output folder.
+Q: Can I get banned from FiveM for using the dumper?
+A: No, you cannot get banned from FiveM for using our dumper as it doesn't access memory. The API we use is available in the ingame F8 menu.

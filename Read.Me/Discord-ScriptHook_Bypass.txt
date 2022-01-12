@@ -1,0 +1,6 @@
+Open the Sp00fer, login, go to FiveM cheetos, & select scripthook bypass.
+Go into your FiveM application data folder and make a Plugins folder spelled just how mine is
+Now place your menus in there
+Open FiveM and join a server.
+Open your Menu.
+This does not support lua or javascript menus

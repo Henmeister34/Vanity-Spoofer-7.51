@@ -1,0 +1,9 @@
+1. Download revo uninstaller and uninstall Splitgate | DO NOT MAKE A RESTORE POINT, also make sure you scan advanced and delete all leftover files/reg keys
+2. Make a new steam account and login to it
+3. Open the sp00fer and sp00f Splitgate
+4. Restart your PC
+5. Sp00f splitgate again
+6. Enable a VPN
+7. Change your MAC (NIC) with TMAC or reset your network adapters
+8. Download splitgate
+9. Open splitgate and enjoy playing

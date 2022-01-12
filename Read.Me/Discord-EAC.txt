@@ -1,0 +1,22 @@
+No windows reinstall required
+1. Download revo uninstaller and completely delete the game
+2. Download the sp00fer and select Sp00f
+3. Restart your PC
+4. Sp00f again (The sp00fer will remove most leftover EAC files)
+5. Make a new account
+6. Download the game
+7. Reset your network adapters or use TMAC
+8. Change your IP (Internet Protocol) address.
+9. Press your windows key + r and type `system32` and delete nvml.dll (ONLY THE ONE IN SYSTEM32) - only if you have NVIDIA
+10. Open the game and enjoy playing
+
+1. Format your PC
+2. Download the sp00fer and select Sp00f
+3. Restart your PC
+4. Sp00f again
+5. Make a new account
+6. Download the game
+7. Reset your network adapters or use TMAC
+8. Change your IP (Internet Protocol) address.
+9. Press your windows key + r and type `system32` and delete nvml.dll (ONLY THE ONE IN SYSTEM32) - only if you have NVIDIA
+10. Open the game and enjoy playing

@@ -1,0 +1,90 @@
+We DO NOT support 3000 series GPU's or NVMe at the moment.
+I am planning on adding support shortly
+Once NVIDA is 100% working
+Please DO NOT UPDATE YOUR GPU DRIVERS. This will cause you to get rebanned.
+If you got any questions ask in chat or dm me. 
+If you have AMD please skip step 6
+
+BEFORE JOINING A SERVER GO INTO YOUR FIVEM SETTINGS AND DISABLE CANARY
+PLEASE DM ME AND LMK IF YOU GOT UNBANNED OR NOT
+BUT MAKE SURE YOUR NOT ON CANARY, AS IT MAY CAUSE ISSUES. 
+
+
+YOU MUST FLASH YOUR BIOS!
+Welcome to Premium Spoofer! *FiveM unban method*
+This works for token bans + global bans!
+
+
+   ____ _     ___  ____    _    _       ____    _    _   _ 
+  / ___| |   / _ \| __ )  / \  | |     | __ )  / \  | \ | |
+ | |  _| |  | | | |  _ \ / _ \ | |     |  _ \ / _ \ |  \| |
+ | |_| | |__| |_| | |_) / ___ \| |___  | |_) / ___ \| |\  |
+  \____|_____\___/|____/_/   \_\_____| |____/_/   \_\_| \_|
+                                                           
+Step 1:                    
+Download revo uninstaller - https://www.revouninstaller.com/start-freeware-download/
+    Delete ALL GTA V/FiveM/Rockstar games apps
+    DO NOT MAKE A RESTORE POINT
+    Make sure to select scan advanced, select all, delete
+    Once done go into your documents folder and delete Rockstar Games, do the same in Program Files and Program Files (x86)
+    Finally go into your C drive and delete "windows.old" if you see it, if you don't then just move onto the next step.
+       
+Step 2:
+    Go to - https://tb.rg-adguard.net/public.php    
+    Select Windows Final as the type   
+    Select Windows 10 2009 (20H2) as the version   
+    Select windows 10 as the edition
+    Select your language
+    Download the files
+    Plugin your USB flash drive
+    Extract the ISO and put it onto your USB flash drive, If it says the file is too big format your USB to NTFS - https://www.ntfs.com/format-usb-flash-drive-ntfs.htm
+    Once its done transfering, restart your pc and spam F2/F12 while your pc is booting to boot into your bios
+    Set your #1 (priority disk) to your USB flash drive, and apply the settings and reboot your pc.
+    Once it runs the setup make sure you skip the microsoft account part, and make a local account. (THIS STEP IS IMPORTANT)
+    *YOU MUST FORMAT EVERY SINGLE DRIVE*
+
+Step 3:
+    Open CMD and type "wmic baseboard get manufacturer, product", product now copy your manufacturer and product name. 
+    *IF ITS ______ OR ___________ then reinstall windows and redo the steps*
+    Google your manufacturer/product name and download a bios update. If your already on the latest bios version please DOWNGRADE. - MAKE SURE YOU INSTALL A DIFFERENT VERSION
+    Once you download the zip extract it and put the bios flash file on your usb. Format your USB before flashing. - erase all data.
+    Now you can restart your pc and boot into your bios, once your in your bios select flash utility.
+    Now select Update Bios from Drive, and finally select your usb drive and then the bios flash file.
+
+Step 4:
+    Download Steam - Login to a new account
+    Download Discord - Login to a new account
+    Download Rockstar Games - Login to a new rockstar, open a purchase ticket to buy one for $2
+    Download a VPN - https://protonvpn.com
+    Download TMAC - google it
+    Once you've installed all those, please download GTA V *YOU CAN INSTALL IT FROM A OLD ACCOUNT, BUT MAKE SURE TO SIGN BACK INTO YOUR NEW ONE*
+    *DO NOT INSTALL GTA V FROM EPIC GAMES*
+
+Step 5:
+    Download revo uninstaller - https://www.revouninstaller.com/start-freeware-download/
+    Remove all microsoft apps (xbox apps) besides microsoft store
+    Also make sure to remove the app called "Your Phone"
+
+Step 6:
+    Go to - www.windowscentral.com/how-disable-automatic-driver-updates-windows-10
+    Disable automatic driver updates
+    Download DDU and uninstall your GPU + restart
+    Once your GPU is fully uninstalled go to - https://www.guru3d.com/files-details/geforce-431-60-whql-driver-download.html
+    Now download the installer and install v431.60 - IF YOU HAVE ANY ISSUES WITH THE INSTALL PLEASE CONTACT SUPPORT
+
+Step 7:
+    Go into your 'C:\Windows\System32' folder and delete the following dll "nvml.dll"
+    (DO NOT update your nvidia gpu otherwise you'll get rebanned.)
+    Open our spoofer and select Temp spoof, Other, FiveM
+    Download this - https://mega.nz/file/n2QBSKgR#5LXBYZfsessgUktsmiiywIuBxc3mUxJ8cXZ82_2Py3U
+    Open "blocker_protected.exe" and keep it open (YOU MUST START THIS EACH TIME YOU WANNA PLAY FIVEM)
+    Delete rockstar launcher with revo uninstaller and reinstall it
+    Restart your PC
+    Open the spoofer and spoof FiveM again
+    Download a VPN (proton VPN)
+    Connect to a VPN server
+    Download TMAC and change your mac address (change the one your currently connected to) - Download: https://technitium.com/tmac/
+    Open FiveM and Login with your new rockstar account
+    IF FIVEM WANTS YOU TO GIVE IT ACCESS TO YOUR INTERNET JUST PRESS CANCEL
+    When FiveM opens restart your PC and spoof again, and then Open FiveM.
+    Join a server and play

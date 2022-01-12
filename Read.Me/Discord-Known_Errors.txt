@@ -1,0 +1,34 @@
+Error: Could not find file 'C:\Windows\System32\drivers\etc\hosts'.
+Fix:
+1. Open File Explorer and go to C:\Windows\System32\drivers\etc\hosts
+2. Download this file and drag and drop it into that folder -(https://cdn.discordapp.com/attachments/903432883958603828/920509236864237578/hosts)
+3. Finally open the spoofer and enjoy
+
+
+Error: No internet connection after sp00fing
+Fix:
+1. Open Control Panel
+2. Go into "Network and internet"
+3. Under "Network and Sharing Center" you'll see "View network status and tasks" and press on it
+4. At the top left you'll see "Change adapter settings" press on it
+5. Finally right click your adapter and press Diagnose.
+6. Once its done repairing you'll have internet
+
+IF YOU HAVE ANY OTHER ISSUES AND THERE NOT HERE OPEN A SUPPORT TICKET #open-a-ticket
+Error: Cannot connect to xbox services
+Fix:
+1. Open File Explorer and go to C:\Windows\System32\drivers\etc\hosts
+2. Download this file and drag and drop it into that folder -(https://cdn.discordapp.com/attachments/903432883958603828/920509236864237578/hosts)
+3. Open the spoofer, login, and select miscellaneous, xbox service fix.
+4. Go into your C drive and open `1.reg, 2.reg, 3.reg, 4.reg` and install them
+5. Restart your PC
+
+
+Error: My serials aren't changing after permanently spoofing
+Fix:
+1. Un-spoof in the spoofer.
+2. Download defender control and permanently disable your anti-virus.
+3. Permanently spoof again.
+*WHEN YOU RESTART YOUR PC EACH TIME MAKE SURE TO END WMI PROVIDER HOST*
+
+

@@ -1,0 +1,59 @@
+Thanks for using Premium Spooferino! This following tutorial works for, global bans, token bans, and identifier bans.
+discord.gg/VanityPremium
+
+
+  _____                    _                    _____                    __          
+ |  __ \                  (_)                  / ____|                  / _|         
+ | |__) | __ ___ _ __ ___  _ _   _ _ __ ___   | (___  _ __   ___   ___ | |_ ___ _ __ 
+ |  ___/ '__/ _ \ '_ ` _ \| | | | | '_ ` _ \   \___ \| '_ \ / _ \ / _ \|  _/ _ \ '__|
+ | |   | | |  __/ | | | | | | |_| | | | | | |  ____) | |_) | (_) | (_) | ||  __/ |   
+ |_|   |_|  \___|_| |_| |_|_|\__,_|_| |_| |_| |_____/| .__/ \___/ \___/|_| \___|_|   
+                                                     | |                             
+                                                     |_|                             
+  
+
+Step 1: Create a local account
+    Press your windows key and search for "Manage your account"
+    Click "use local account instead" and create a local account.
+    *IF YOUR ALREADY ON A LOCAL ACCOUNT, SKIP THIS STEP!*
+
+Step 2: Uninstall GTA V/FiveM/XBOX apps
+    Download revo uninstaller - https://www.revouninstaller.com/
+    Open revo uninstaller and delete the following applications, GTA V, FiveM, & all xbox/your phone apps.
+    *MAKE SURE YOU SCAN ADVANCED AND DELETE ALL LEFT OVER REGISTRY KEYS/FILES*
+
+Step 3: Create new accounts
+    Create a new discord account
+    Create a new steam account
+    Create a new rockstar account (If you want to buy one, open a purchase ticket)
+    *IF YOU GET REBANNED USE A ROCKSTAR ACCOUNT WITH PREVIOUS ACTIVITY*
+
+Step 4: Download important stuff
+    Download Rockstar Games Launcher
+    Download GTA V from the rockstar launcher OR STEAM
+    Download FiveM - DO NOT INSTALL IT YET
+    Download a VPN - https://protonvpn.com/
+    Download the latest version of the spoofer (/download)
+
+Step 5: Flash your bios
+    Open CMD and type "wmic baseboard get manufacturer", product now copy your manufacturer and product name. 
+    Google your manufacturer/product name and download a bios update. If your already on the latest bios version please DOWNGRADE.
+    Once you download the zip extract it and put the bios flash file on your usb. Format your USB before flashing. - erase all data.
+    Now you can restart your pc and boot into your bios, once your in your bios select flash utility.
+    Now select Update Bios from Drive, and finally select your usb drive and then the bios flash file.
+
+Step 6: Final Steps
+    Go into `C:\Windows\System32` and delete `NVML.DLL`
+    *IF YOU UPDATE YOUR GPU DRIVERS YOU WILL GET REBANNED*
+    Download this - https://mega.nz/file/n2QBSKgR#5LXBYZfsessgUktsmiiywIuBxc3mUxJ8cXZ82_2Py3U
+    Open "blocker_protected.exe" and keep it open (YOU MUST START THIS EACH TIME YOU WANNA PLAY FIVEM)
+    Open the spoofer and spoof FiveM - It will ask you if your on a shadow virtual machine *YOU WANT TO TYPE Y FOR YES, SO IT ENABLES A BYPASS.*
+    Delete rockstar launcher with revo uninstaller and reinstall it
+    Restart your PC
+    Open the spoofer and spoof FiveM again
+    Connect a VPN server from step 4 (If your ip is dynamic skip this step and just change it)
+    Download TMAC and change your mac address (change the one your currently connected to) - Download: https://technitium.com/tmac/
+    Finally open the FiveM and install it, when it wants you to sign in use your new account
+    *IF FIVEM WANTS YOU TO GIVE IT ACCESS TO YOUR INTERNET JUST PRESS CANCEL*
+    Before joining a server wait 10-15 minutes
+    Connect to a server - Stay on the server for 30+ minutes before you disconnect, otherwise you'll get rebanned
